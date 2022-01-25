@@ -165,7 +165,7 @@ hr{
     text-align: center;
     
     margin-top: 2%;
-    margin-left: 5%;
+    margin-left: 10%;
 
     z-index: -1;
     width: 80%;
@@ -216,7 +216,7 @@ hr{
 .text3 img{
     z-index: -1;
    float: left;
-    margin-left: 5%;
+    margin-left: 10%;
     margin-top: 2%;
 
     display: inline;
@@ -228,7 +228,7 @@ hr{
 .text3 p{
     float: right;
     display: inline;
-    margin-right: 5%;
+    margin-right: 10%;
     margin-top: 2%;
 }
 
